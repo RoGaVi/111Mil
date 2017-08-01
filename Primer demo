@@ -1,0 +1,11 @@
+//Este es un ejemplo para el repositorio
+
+funcion GetUsers (id:ENTERO):STRING
+
+code 1
+
+code 2
+
+code 3
+
+Fin Funcion
